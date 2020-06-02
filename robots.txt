@@ -1,0 +1,42 @@
+Allow: /wp-content/themes/*.css
+
+Allow: /wp-content/plugins/*.css
+Allow: /wp-content/uploads/*.css
+
+Allow: /wp-content/themes/*.js
+Allow: /wp-content/plugins/*.js
+Allow: /wp-content/uploads/*.js
+
+Allow: /wp-includes/css/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+
+# disallow all files in these directories
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: *?replytocom
+Disallow: *?s
+Disallow: *?bamp-skip-redirect
+Disallow: /comments/feed/
+Disallow: /confirmation/
+Disallow: /author/
+Disallow: /author/admin/
+Disallow: *?ical
+Disallow: *?tribe_display
+Disallow: *?bamp-skip-redirect
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+Host: https://www.maemoderators.co.uk
+sitemap: https://www.maemoderators.co.uk/sitemap.xml

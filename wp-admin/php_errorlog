@@ -1,0 +1,107 @@
+[24-Apr-2019 14:38:56 UTC] WordPress database error Table 'jmssport_meam.meam_redirection_groups' doesn't exist for query SELECT COUNT(*) FROM meam_redirection_groups made by require_once('wp-admin/admin.php'), do_action('load-tools_page_redirection'), WP_Hook->do_action, WP_Hook->apply_filters, Redirection_Admin->redirection_head, Red_Database_Status->get_json, Red_Database_Status->get_manual_upgrade, Red_Database_Upgrader->get_queries_for_stage, Red_Latest_Database->create_groups
+[24-Apr-2019 14:38:56 UTC] WordPress database error Table 'jmssport_meam.meam_redirection_groups' doesn't exist for query SHOW FULL COLUMNS FROM `meam_redirection_groups` made by require_once('wp-admin/admin.php'), do_action('load-tools_page_redirection'), WP_Hook->do_action, WP_Hook->apply_filters, Redirection_Admin->redirection_head, Red_Database_Status->get_json, Red_Database_Status->get_manual_upgrade, Red_Database_Upgrader->get_queries_for_stage, Red_Latest_Database->create_groups
+[24-Apr-2019 14:38:56 UTC] WordPress database error Table 'jmssport_meam.meam_redirection_groups' doesn't exist for query SHOW FULL COLUMNS FROM `meam_redirection_groups` made by require_once('wp-admin/admin.php'), do_action('load-tools_page_redirection'), WP_Hook->do_action, WP_Hook->apply_filters, Redirection_Admin->redirection_head, Red_Database_Status->get_json, Red_Database_Status->get_manual_upgrade, Red_Database_Upgrader->get_queries_for_stage, Red_Latest_Database->create_groups
+[24-Apr-2019 14:38:56 UTC] WordPress database error Table 'jmssport_meam.meam_redirection_groups' doesn't exist for query SELECT * FROM meam_redirection_groups LIMIT 1 made by require_once('wp-admin/admin.php'), do_action('load-tools_page_redirection'), WP_Hook->do_action, WP_Hook->apply_filters, Redirection_Admin->redirection_head, Red_Database_Status->get_json, Red_Database_Status->get_manual_upgrade, Red_Database_Upgrader->get_queries_for_stage, Red_Latest_Database->create_groups
+[25-Apr-2019 14:59:57 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 14:59:57 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 14:59:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:01:35 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:01:35 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:01:35 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:01:41 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:01:41 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:01:41 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:01:54 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:01:54 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:01:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:03:55 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:03:55 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:03:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:04:00 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:04:00 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:04:00 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:04:05 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:04:05 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:04:05 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:04:13 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:04:13 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:04:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:05:11 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:05:11 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:05:11 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:06:55 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:06:55 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:06:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:08:05 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:08:05 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:08:05 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:13:15 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:13:15 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:13:15 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:13:54 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:13:54 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:13:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:13:58 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:13:58 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:13:58 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:14:12 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:14:12 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:14:12 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[25-Apr-2019 15:14:18 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5462
+[25-Apr-2019 15:14:18 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5465
+[25-Apr-2019 15:14:18 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5468
+[21-Sep-2019 11:24:56 UTC] 3
+[21-Sep-2019 11:25:17 UTC] 3
+[22-Sep-2019 07:51:14 UTC] 3
+[22-Sep-2019 07:51:30 UTC] 3
+[22-Sep-2019 07:53:04 UTC] 3
+[22-Sep-2019 07:54:18 UTC] 3
+[22-Sep-2019 07:55:33 UTC] 3
+[22-Sep-2019 07:57:16 UTC] 3
+[22-Sep-2019 08:47:31 UTC] 3
+[22-Sep-2019 16:09:20 UTC] 3
+[22-Sep-2019 16:10:20 UTC] 3
+[22-Sep-2019 16:11:05 UTC] 3
+[22-Sep-2019 17:41:57 UTC] 3
+[22-Sep-2019 17:42:13 UTC] 3
+[22-Sep-2019 17:42:19 UTC] 3
+[22-Sep-2019 17:42:24 UTC] 3
+[22-Sep-2019 17:42:25 UTC] 3
+[22-Sep-2019 17:42:31 UTC] 3
+[22-Sep-2019 17:42:42 UTC] 3
+[22-Sep-2019 17:44:31 UTC] 3
+[23-Sep-2019 07:04:45 UTC] 3
+[24-Sep-2019 12:34:40 UTC] PHP Fatal error:  Uncaught wfWAFStorageFileException: Unable to verify temporary file contents for atomic writing. in /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:52
+Stack trace:
+#0 /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(659): wfWAFStorageFile::atomicFilePutContents('/home/jmssport/...', '<?php exit('Acc...')
+#1 [internal function]: wfWAFStorageFile->saveConfig('synced')
+#2 {main}
+  thrown in /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php on line 52
+[24-Sep-2019 12:35:22 UTC] PHP Fatal error:  Uncaught wfWAFStorageFileException: Unable to verify temporary file contents for atomic writing. in /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:52
+Stack trace:
+#0 /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(659): wfWAFStorageFile::atomicFilePutContents('/home/jmssport/...', '<?php exit('Acc...')
+#1 [internal function]: wfWAFStorageFile->saveConfig('synced')
+#2 {main}
+  thrown in /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php on line 52
+[24-Sep-2019 13:49:03 UTC] Unable to verify temporary file contents for atomic writing.
+[24-Sep-2019 13:49:13 UTC] Unable to verify temporary file contents for atomic writing.
+[24-Sep-2019 13:49:16 UTC] PHP Fatal error:  Uncaught wfWAFStorageFileException: Unable to verify temporary file contents for atomic writing. in /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:52
+Stack trace:
+#0 /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(659): wfWAFStorageFile::atomicFilePutContents('/home/jmssport/...', '<?php exit('Acc...')
+#1 [internal function]: wfWAFStorageFile->saveConfig('livewaf')
+#2 {main}
+  thrown in /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php on line 52
+[24-Sep-2019 13:50:31 UTC] Unable to verify temporary file contents for atomic writing.
+[24-Sep-2019 13:50:38 UTC] PHP Fatal error:  Uncaught wfWAFStorageFileException: Unable to verify temporary file contents for atomic writing. in /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:52
+Stack trace:
+#0 /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(659): wfWAFStorageFile::atomicFilePutContents('/home/jmssport/...', '<?php exit('Acc...')
+#1 [internal function]: wf[24-Sep-2019 14:44:43 UTC] 3
+[24-Sep-2019 14:45:00 UTC] 3
+[24-Sep-2019 14:45:13 UTC] 3
+[24-Sep-2019 14:45:20 UTC] 3
+[24-Sep-2019 14:45:32 UTC] 3
+[10-Oct-2019 12:45:11 UTC] PHP Warning:  Error while sending QUERY packet. PID=41204 in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/wp-db.php on line 2007
+[23-Oct-2019 14:03:14 UTC] PHP Warning:  fopen(/home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/klaviyo-for-woocommerce/woocommerce-klaviyo.php): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5573
+[23-Oct-2019 14:03:14 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5576
+[23-Oct-2019 14:03:14 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/jmssport/public_html/maemoderators.co.uk/wp-includes/functions.php on line 5579
+[21-Nov-2019 04:08:54 UTC] PHP Warning:  md5_file(/home/jmssport/public_html/maemoderators.co.uk/wp-content/cache/page_enhanced/www.maemoderators.co.uk/product/t12-st/_index_ssl.html): failed to open stream: No such file or directory in /home/jmssport/public_html/maemoderators.co.uk/wp-content/plugins/wordfence/lib/wordfenceScanner.php on line 554

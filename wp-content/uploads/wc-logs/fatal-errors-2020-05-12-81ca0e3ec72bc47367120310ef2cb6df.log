@@ -1,0 +1,74 @@
+2020-05-12T00:01:16+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 65536 bytes) in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/simple-history/loggers/SimpleCoreUpdatesLogger.php on line 92
+
+2020-05-12T08:08:37+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on boolean in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php:22
+Stack trace:
+#0 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(95): require()
+#1 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(57): better_amp_load_templates(Array, '/home/351291.cl...', true, false)
+#2 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(1794): better_amp_locate_template(Array, true, false)
+#3 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce.php(12): better_amp_template_part('woocommerce/loo...')
+#4 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-includes/template-loader.php(106): include('/home/351291.cl...')
+#5 /home/351291. in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php on line 22
+
+2020-05-12T08:08:48+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on boolean in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php:22
+Stack trace:
+#0 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(95): require()
+#1 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(57): better_amp_load_templates(Array, '/home/351291.cl...', true, false)
+#2 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(1794): better_amp_locate_template(Array, true, false)
+#3 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce.php(12): better_amp_template_part('woocommerce/loo...')
+#4 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-includes/template-loader.php(106): include('/home/351291.cl...')
+#5 /home/351291. in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php on line 22
+
+2020-05-12T08:08:57+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on boolean in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php:22
+Stack trace:
+#0 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(95): require()
+#1 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(57): better_amp_load_templates(Array, '/home/351291.cl...', true, false)
+#2 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(1794): better_amp_locate_template(Array, true, false)
+#3 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce.php(12): better_amp_template_part('woocommerce/loo...')
+#4 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-includes/template-loader.php(106): include('/home/351291.cl...')
+#5 /home/351291. in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php on line 22
+
+2020-05-12T08:09:08+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on boolean in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php:22
+Stack trace:
+#0 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(95): require()
+#1 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(57): better_amp_load_templates(Array, '/home/351291.cl...', true, false)
+#2 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(1794): better_amp_locate_template(Array, true, false)
+#3 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce.php(12): better_amp_template_part('woocommerce/loo...')
+#4 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-includes/template-loader.php(106): include('/home/351291.cl...')
+#5 /home/351291. in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php on line 22
+
+2020-05-12T08:09:13+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on boolean in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php:22
+Stack trace:
+#0 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(95): require()
+#1 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(57): better_amp_load_templates(Array, '/home/351291.cl...', true, false)
+#2 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(1794): better_amp_locate_template(Array, true, false)
+#3 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce.php(12): better_amp_template_part('woocommerce/loo...')
+#4 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-includes/template-loader.php(106): include('/home/351291.cl...')
+#5 /home/351291. in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php on line 22
+
+2020-05-12T08:09:18+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on boolean in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php:22
+Stack trace:
+#0 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(95): require()
+#1 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(57): better_amp_load_templates(Array, '/home/351291.cl...', true, false)
+#2 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(1794): better_amp_locate_template(Array, true, false)
+#3 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce.php(12): better_amp_template_part('woocommerce/loo...')
+#4 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-includes/template-loader.php(106): include('/home/351291.cl...')
+#5 /home/351291. in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php on line 22
+
+2020-05-12T08:09:24+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on boolean in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php:22
+Stack trace:
+#0 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(95): require()
+#1 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(57): better_amp_load_templates(Array, '/home/351291.cl...', true, false)
+#2 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(1794): better_amp_locate_template(Array, true, false)
+#3 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce.php(12): better_amp_template_part('woocommerce/loo...')
+#4 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-includes/template-loader.php(106): include('/home/351291.cl...')
+#5 /home/351291. in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php on line 22
+
+2020-05-12T08:09:29+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on boolean in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php:22
+Stack trace:
+#0 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(95): require()
+#1 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(57): better_amp_load_templates(Array, '/home/351291.cl...', true, false)
+#2 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/includes/functions/theme-functions.php(1794): better_amp_locate_template(Array, true, false)
+#3 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce.php(12): better_amp_template_part('woocommerce/loo...')
+#4 /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-includes/template-loader.php(106): include('/home/351291.cl...')
+#5 /home/351291. in /home/351291.cloudwaysapps.com/fmrngeyzgv/public_html/wp-content/plugins/better-amp/template/woocommerce/loop.php on line 22
+

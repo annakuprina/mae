@@ -1,0 +1,1649 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PDF Invoice\n"
+"POT-Creation-Date: 2018-07-23 12:20+0300\n"
+"PO-Revision-Date: 2015-11-05 11:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: psprindys <psprindys@gmail.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;_n:1,2;_nc:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/woo-pdf-invoice.class.php:1829
+msgid "dirham"
+msgid_plural "dirhams"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1830
+#: classes/woo-pdf-invoice.class.php:1836
+#: classes/woo-pdf-invoice.class.php:1838
+#: classes/woo-pdf-invoice.class.php:1841
+#: classes/woo-pdf-invoice.class.php:1855
+#: classes/woo-pdf-invoice.class.php:1860
+msgid "peso"
+msgid_plural "pesos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1831
+#: classes/woo-pdf-invoice.class.php:1835
+#: classes/woo-pdf-invoice.class.php:1843
+#: classes/woo-pdf-invoice.class.php:1858
+#: classes/woo-pdf-invoice.class.php:1865
+#: classes/woo-pdf-invoice.class.php:1869
+#: classes/woo-pdf-invoice.class.php:1873
+msgid "dollar"
+msgid_plural "dollars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1832
+msgid "taka"
+msgid_plural "taka"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1833
+msgid "real"
+msgid_plural "reais"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1834
+msgid "lev"
+msgid_plural "leva"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1837
+msgid "yuan"
+msgid_plural "yuan"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1839
+msgid "koruna"
+msgid_plural "koruna"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1840
+#: classes/woo-pdf-invoice.class.php:1857
+msgid "krone"
+msgid_plural "kroner"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1842
+msgid "euro"
+msgid_plural "euros"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1844
+msgid "kuna"
+msgid_plural "kuna"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1845
+msgid "forint"
+msgid_plural "forint"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1846
+#: classes/woo-pdf-invoice.class.php:1867
+msgid "krona"
+msgid_plural "kronur"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1847
+msgid "rupiah"
+msgid_plural "rupiahs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1848
+#: classes/woo-pdf-invoice.class.php:1849
+msgid "rupee"
+msgid_plural "rupees"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1850
+msgid "shekel"
+msgid_plural "shekalim"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1851
+msgid "yen"
+msgid_plural "yen"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1852
+msgid "kip"
+msgid_plural "kip"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1853
+msgid "won"
+msgid_plural "won"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1854
+msgid "ringgit"
+msgid_plural "ringgit"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1856
+msgid "naira"
+msgid_plural "naira"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1859
+msgid "guarani"
+msgid_plural "guaranies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1861
+msgid "zloty"
+msgid_plural "zloty"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1862
+#: classes/woo-pdf-invoice.class.php:1875
+msgid "pound"
+msgid_plural "pounds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1863
+msgid "leu"
+msgid_plural "lei"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1864
+msgid "ruble"
+msgid_plural "rublei"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1866
+msgid "rand"
+msgid_plural "rand"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1868
+msgid "franc"
+msgid_plural "francs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1870
+msgid "baht"
+msgid_plural "baht"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1871
+msgid "lira"
+msgid_plural "liras"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1872
+msgid "hryvnia"
+msgid_plural "hryvni"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1874
+msgid "dong"
+msgid_plural "dong"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1898
+msgid "fils"
+msgid_plural "fulūs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1899
+#: classes/woo-pdf-invoice.class.php:1902
+#: classes/woo-pdf-invoice.class.php:1905
+#: classes/woo-pdf-invoice.class.php:1907
+#: classes/woo-pdf-invoice.class.php:1910
+#: classes/woo-pdf-invoice.class.php:1924
+#: classes/woo-pdf-invoice.class.php:1929
+msgid "centavo"
+msgid_plural "centavos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1900
+#: classes/woo-pdf-invoice.class.php:1904
+#: classes/woo-pdf-invoice.class.php:1911
+#: classes/woo-pdf-invoice.class.php:1912
+#: classes/woo-pdf-invoice.class.php:1927
+#: classes/woo-pdf-invoice.class.php:1934
+#: classes/woo-pdf-invoice.class.php:1935
+#: classes/woo-pdf-invoice.class.php:1938
+#: classes/woo-pdf-invoice.class.php:1942
+msgid "cent"
+msgid_plural "cents"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1901
+msgid "paisa"
+msgid_plural "paisa"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1903
+msgid "stotinka"
+msgid_plural "stotinki"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1906
+msgid "fen"
+msgid_plural "fen"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1908
+msgid "heller"
+msgid_plural "heller"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1909
+#: classes/woo-pdf-invoice.class.php:1926
+msgid "øre"
+msgid_plural "øre"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1913
+msgid "lipa"
+msgid_plural "lipa"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1914
+msgid "fillér"
+msgid_plural "fillér"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1915
+msgid "eyrir"
+msgid_plural "aurar"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1916
+#: classes/woo-pdf-invoice.class.php:1920
+#: classes/woo-pdf-invoice.class.php:1923
+msgid "sen"
+msgid_plural "sen"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1917
+#: classes/woo-pdf-invoice.class.php:1918
+msgid "paisa "
+msgid_plural "paisa"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1919
+msgid "agora "
+msgid_plural "agorot"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1921
+msgid "att"
+msgid_plural "att"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1922
+msgid "jeon"
+msgid_plural "jeon"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1925
+msgid "kobo"
+msgid_plural "kobo"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1928
+msgid "céntimo"
+msgid_plural "céntimos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1930
+msgid "grosz"
+msgid_plural "grosz"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1931
+msgid "penny "
+msgid_plural "pennies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1932
+msgid "ban"
+msgid_plural "bani"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1933
+msgid "kopeyka"
+msgid_plural "kopeyek"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1936
+msgid "öre"
+msgid_plural "öre"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1937
+msgid "rappen"
+msgid_plural "rappen"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1939
+msgid "satang"
+msgid_plural "satang"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1940
+msgid "kuruş"
+msgid_plural "kuruş"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1941
+msgid "kopiyka"
+msgid_plural "kopiyky"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1943
+msgid "hào"
+msgid_plural "hào"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1944
+msgid "piastre"
+msgid_plural "piastres"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:1980
+msgctxt "separator for numbers 21 through 99 (amount in words)"
+msgid "-"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1982
+msgid "and"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1985
+msgid "zero"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1986
+msgid "one"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1987
+msgid "two"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1988
+msgid "three"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1989
+msgid "four"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1990
+msgid "five"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1991
+msgid "six"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1992
+msgid "seven"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1993
+msgid "eight"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1994
+msgid "nine"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1995
+msgid "ten"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1996
+msgid "eleven"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1997
+msgid "twelve"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1998
+msgid "thirteen"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:1999
+msgid "fourteen"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2000
+msgid "fifteen"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2001
+msgid "sixteen"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2002
+msgid "seventeen"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2003
+msgid "eighteen"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2004
+msgid "nineteen"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2005
+msgid "twenty"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2006
+msgid "thirty"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2007
+msgid "fourty"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2008
+msgid "fifty"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2009
+msgid "sixty"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2010
+msgid "seventy"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2011
+msgid "eighty"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2012
+msgid "ninety"
+msgstr ""
+
+#: classes/woo-pdf-invoice.class.php:2052
+msgid "hundred"
+msgid_plural "hundred"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:2064
+msgid "thousand"
+msgid_plural "thousand"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:2067
+msgid "million"
+msgid_plural "million"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:2070
+msgid "billion"
+msgid_plural "billion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:2073
+msgid "trillion"
+msgid_plural "trillion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:2076
+msgid "quadrillion"
+msgid_plural "quadrillion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/woo-pdf-invoice.class.php:2079
+msgid "quintillion"
+msgid_plural "quintillion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:12
+#: woocommerce-pdf-invoice.php:2005
+msgid "Settings"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:16
+msgid "Regular Invoice Settings"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:19
+msgid "Enable regular invoicing"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:26
+msgid ""
+"<p>Regular invoices are generated as soon as orders are marked as completed."
+"</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:29
+#: includes/woo-pdf-plugin-structure.inc.php:126
+msgid "Allow download"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:36
+msgid ""
+"<p>If enabled, clients will be able to download invoices from order details "
+"page.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:39
+#: includes/woo-pdf-plugin-structure.inc.php:136
+msgid "Attach to order emails"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:46
+msgid ""
+"<p>If enabled, PDF invoice will be emailed to the client along with Order "
+"Completed email and possibly Processing Order email (depending on other "
+"settings).</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:49
+msgid "Generate invoice on"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:57
+msgid "Order paid"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:58
+msgid "Order completed"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:64
+msgid "Regular Invoice Numbering"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:67
+msgid "Numbering method"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:75
+msgid "Internal sequence plus prefix/suffix"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:76
+msgid "Order numbers plus prefix/suffix"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:77
+msgid "Order numbers"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:79
+msgid ""
+"<p>It is highly recommended that you stick to the standard internal "
+"numbering sequence which ensures there will be no gaps in the sequence "
+"(common problem with order numbers).</p> <p>Only change this value if you "
+"know what you are doing.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:82
+msgid "Next number"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:91
+msgid "Prefix"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:98
+msgid ""
+"<p>Leave blank to use no prefix.</p> <p>The following macros are available: "
+"{{year}}, {{month}}, {{day}}.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:101
+msgid "Suffix"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:108
+msgid ""
+"<p>Leave blank to use no suffix.</p> <p>The following macros are available: "
+"{{year}}, {{month}}, {{day}}.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:113
+msgid "Proforma Invoice Settings"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:116
+msgid "Enable proforma invoicing"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:123
+msgid ""
+"<p>Proforma invoices are generated as soon as order is placed.</p><p>Order "
+"IDs are used for proforma invoice numbering.</p><p>Proforma invoices are not "
+"available after order is marked as completed.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:133
+msgid ""
+"<p>If enabled, clients will be able to download proforma invoices from order "
+"details page.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:143
+msgid ""
+"<p>If enabled, PDF proforma invoice will be emailed to the client along with "
+"Order On-hold email and possibly Processing Order email (depending on other "
+"settings).</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:146
+msgid "Trigger Customer Invoice emails"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:153
+msgid ""
+"<p>If enabled, Customer Invoice email will be triggered for all new orders "
+"and PDF proforma invoice will be attached.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:160
+msgid "Advanced"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:164
+msgid "Invoice Settings"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:167
+msgid "Display product ID/SKU"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:175
+msgid "Do not display"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:176
+msgid "Display product ID (WP post ID)"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:177
+msgid "Display SKU"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:179
+msgid ""
+"<p>If enabled, product ID/SKU will be displayed for each item just before "
+"its name.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:182
+msgid "Display product category"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:189
+msgid ""
+"<p>Controls whether or not to display product category below each order item "
+"on the invoice.</p> <p>If there are multiple categories, they will be "
+"displayed in one line separated by commas.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:192
+msgid "Display short description"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:199
+msgid ""
+"<p>Controls whether or not to display product short description below each "
+"order item on the invoice.</p> <p>This extension attempts to convert HTML to "
+"text but this feature is experimental. Use plain text to be sure that the "
+"final result looks as expected.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:202
+msgid "Display product images"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:209
+msgid ""
+"<p>Controls whether or not to display product images below product name "
+"whenever available.</p> <p>This feature is experimental - use at your own "
+"risk.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:212
+msgid "Display currency symbol"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:219
+msgid ""
+"<p>If enabled, currency symbol (e.g. $) will be displayed next to every "
+"amount on the invoice. Currency code (e.g. USD) is displayed next to total "
+"amount in any way.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:222
+msgid "Display shipping when free"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:229
+msgid ""
+"<p>If enabled, shipping row will be displayed even if shipping is free (zero "
+"value).</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:232
+msgid "Display amount in words"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:239
+msgid ""
+"<p>Depending on your country, you may need to print amount in words on your "
+"invoices.</p><p>Use translation file that comes with this plugin to "
+"translate numbers, set your own currency and plural forms.</p><p>This "
+"feature is experimental - use at your own risk.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:242
+msgid "Reset numbering each year"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:249
+msgid ""
+"<p>If enabled, next invoice number will be reset to 1 when the first invoice "
+"is generated each year.</p> <p>For this to take effect, there must be at "
+"least one invoice generated last year and no invoices generated this year.</"
+"p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:254
+msgid "Tax Settings"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:257
+msgid "Display tax rows"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:265
+msgid "When tax is not displayed inline"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:266
+#: includes/woo-pdf-plugin-structure.inc.php:281
+msgid "Always"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:267
+#: includes/woo-pdf-plugin-structure.inc.php:282
+msgid "Never"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:269
+msgid ""
+"<p>If enabled, all applicable taxes will be listed just above (if Subtotal "
+"is exclusive of tax) or below (if Subtotal is inclusive of tax) Total row.</"
+"p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:272
+msgid "Display tax inline"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:280
+msgid "When different rates are present"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:284
+msgid ""
+"<p>You may need to display net amount, tax rate and tax amount individually "
+"for each line item.</p> <p>This is useful when different rates of the same "
+"tax are used for different items on the same invoice, e.g. reduced VAT rate "
+"is applied to specific group of products.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:287
+msgid "Display amounts inclusive of tax"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:294
+msgid ""
+"<p>If enabled, line item price, line subtotal and subtotal will be displayed "
+"inclusive of tax. This plugin always overrides related WooCommerce settings."
+"</p><p>This setting is ignored when tax is displayed inline.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:297
+msgid "Display total excl. tax row"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:304
+msgid ""
+"<p>If enabled, additional line will be added to the totals block that "
+"displays total exclusive of tax.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:309
+msgid "Other Settings"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:312
+msgid "When personal data is removed"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:320
+msgid "Keep invoices - will remove manually"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:321
+msgid "Remove invoices automatically"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:323
+msgid ""
+"<p>When handling an account erasure request, should invoices within orders "
+"be retained or removed?</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:326
+msgid "Display order page buttons"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:333
+msgid ""
+"<p>If enabled, download button will be displayed for a customer next to each "
+"order in the orders list.</p> <p>These buttons are optional - if you disable "
+"them, invoice download links will still be displayed on a single order "
+"details page if <strong>Allow download</strong> is enabled.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:336
+msgid "Send proforma invoice to admin"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:343
+msgid ""
+"<p>If enabled, proforma invoices will be attached to New Order email that is "
+"sent to store administrator or manager.</p> <p>Please note that proforma "
+"invoicing must be enabled for this feature to take effect.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:346
+msgid "Allow admins to delete invoices"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:353
+msgid ""
+"<p>You are strongly advised against activating and using this feature as it "
+"may cause more harm than good.</p> <p>When you delete an invoice and "
+"regenerate it, invoice number will be different (if you use internal "
+"numbering sequence).</p> <p>It is against accounting standards to have gaps "
+"in the invoice numbering system - you must account for each number in the "
+"sequence.</p> <p>Use at your own risk.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:356
+msgid "Force user login"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:363
+msgid ""
+"<p>Although it is impossible for anyone to guess the download URL for a "
+"particular invoice, you may wish to tighten security even more by requesting "
+"user login before invoices can be downloaded.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:370
+msgid "Seller & Buyer"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:374
+msgid "Seller Block"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:377
+msgid "Logo image"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:384
+msgid "<p>Enter URL or select image from Media Library.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:387
+msgid "Logo resize factor (in percent)"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:394
+msgid ""
+"<p>Increase this number if you want to make your logo larger on the invoice "
+"and vice versa.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:397
+#: includes/woo-pdf-plugin-structure.inc.php:430
+msgid "Block title"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:399
+msgid "Seller"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:406
+msgid "Company name"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:415
+msgid "Company details"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:422
+msgid ""
+"<p>Use this field to set up your company details, including address, company "
+"registration number, tax code etc.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:427
+msgid "Buyer Block"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:432
+msgid "Buyer"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:439
+msgid "Buyer details layout"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:446
+#, php-format
+msgid ""
+"<p>Use this field to set up the layout of the buyer details block.</p> "
+"<p>The following macros are available: %s</p> <p>You can use custom fields "
+"in the same way, e.g. {{my_custom_field_key}}.</p> <p>Do not include buyer "
+"first name, last name and company name - these fields are displayed "
+"automatically.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:449
+#: includes/woo-pdf-plugin-structure.inc.php:480
+#: includes/woo-pdf-plugin-structure.inc.php:504
+#: includes/woo-pdf-plugin-structure.inc.php:537
+#: includes/woo-pdf-plugin-structure.inc.php:584
+#: includes/woo-pdf-plugin-structure.inc.php:631
+#: includes/woo-pdf-plugin-structure.inc.php:678
+msgid "Remove lines with empty values"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:456
+#: includes/woo-pdf-plugin-structure.inc.php:487
+msgid ""
+"<p>If enabled, all lines that contain macros with empty values only will be "
+"removed.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:463
+msgid "Content Blocks"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:467
+msgid "Invoice Details"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:470
+msgid "Block layout"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:477
+msgid ""
+"<p>Use this field to set up the layout of the invoice details block.</p> "
+"<p>Use '|' symbol to separate left and right columns.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:492
+msgid "Page Footer"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:495
+#: includes/woo-pdf-plugin-structure.inc.php:528
+#: includes/woo-pdf-plugin-structure.inc.php:575
+#: includes/woo-pdf-plugin-structure.inc.php:622
+#: includes/woo-pdf-plugin-structure.inc.php:669
+msgid "Content"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:511
+#: includes/woo-pdf-plugin-structure.inc.php:544
+#: includes/woo-pdf-plugin-structure.inc.php:591
+#: includes/woo-pdf-plugin-structure.inc.php:638
+#: includes/woo-pdf-plugin-structure.inc.php:685
+msgid ""
+"<p>If you are using macros in your content, you may wish to remove lines on "
+"which all macros are empty.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:516
+msgid "Custom Block #1"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:519
+#: includes/woo-pdf-plugin-structure.inc.php:566
+#: includes/woo-pdf-plugin-structure.inc.php:613
+#: includes/woo-pdf-plugin-structure.inc.php:660
+msgid "Title"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:547
+#: includes/woo-pdf-plugin-structure.inc.php:594
+#: includes/woo-pdf-plugin-structure.inc.php:641
+#: includes/woo-pdf-plugin-structure.inc.php:688
+msgid "Displayed on"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:555
+#: includes/woo-pdf-plugin-structure.inc.php:602
+#: includes/woo-pdf-plugin-structure.inc.php:649
+#: includes/woo-pdf-plugin-structure.inc.php:696
+msgid "Both types of invoices"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:556
+#: includes/woo-pdf-plugin-structure.inc.php:603
+#: includes/woo-pdf-plugin-structure.inc.php:650
+#: includes/woo-pdf-plugin-structure.inc.php:697
+msgid "Regular invoices"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:557
+#: includes/woo-pdf-plugin-structure.inc.php:604
+#: includes/woo-pdf-plugin-structure.inc.php:651
+#: includes/woo-pdf-plugin-structure.inc.php:698
+msgid "Proforma invoices"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:563
+msgid "Custom Block #2"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:610
+msgid "Custom Block #3"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:657
+msgid "Custom Block #4"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:706
+msgid "Localization"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:710
+msgid "Date & Time"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:713
+msgid "Date format"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:721
+msgid "mm/dd/yy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:722
+msgid "mm/dd/yyyy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:723
+msgid "dd/mm/yy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:724
+msgid "dd/mm/yyyy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:725
+msgid "yy-mm-dd"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:726
+msgid "yyyy-mm-dd"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:727
+msgid "Month dd, yyyy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:728
+msgid "dd.mm.yyyy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:729
+msgid "dd-mm-yyyy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:735
+msgid "Field Labels"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:738
+#: includes/woo-pdf-plugin-structure.inc.php:740
+#: woocommerce-pdf-invoice.php:1378 woocommerce-pdf-invoice.php:1379
+#: woocommerce-pdf-invoice.php:2116
+msgid "Invoice"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:747
+#: includes/woo-pdf-plugin-structure.inc.php:749
+msgid "Proforma Invoice"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:756
+#: includes/woo-pdf-plugin-structure.inc.php:758
+msgid "Invoice Date"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:765
+#: includes/woo-pdf-plugin-structure.inc.php:767
+msgid "Order Amount"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:774
+#: includes/woo-pdf-plugin-structure.inc.php:776
+msgid "Product"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:783
+#: includes/woo-pdf-plugin-structure.inc.php:785
+msgid "Price"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:792
+msgid "Quantity"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:794
+msgid "Qty."
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:801
+#: includes/woo-pdf-plugin-structure.inc.php:803
+msgid "Net"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:808
+msgid ""
+"<p>Used as a column name for a line net amount column when different tax "
+"rates are used for different items.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:811
+#: includes/woo-pdf-plugin-structure.inc.php:813
+msgid "Tax %"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:818
+msgid ""
+"<p>Used as a column name for a line tax rate column when different tax rates "
+"are used for different items.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:821
+#: includes/woo-pdf-plugin-structure.inc.php:823
+msgid "Tax"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:828
+msgid ""
+"<p>Used as a column name for a line tax total column when different tax "
+"rates are used for different items.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:831
+#: includes/woo-pdf-plugin-structure.inc.php:833
+msgid "Line Total"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:840
+#: includes/woo-pdf-plugin-structure.inc.php:842
+msgid "Shipping"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:849
+#: includes/woo-pdf-plugin-structure.inc.php:851
+msgid "Shipping Tax"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:856
+msgid ""
+"<p>Only displayed when different tax rates are used for different items. In "
+"this case, all other tax amounts are displayed inline on the main table and "
+"only shipping tax row is displayed on the totals block.</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:859
+#: includes/woo-pdf-plugin-structure.inc.php:861
+msgid "Subtotal"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:868
+#: includes/woo-pdf-plugin-structure.inc.php:870
+msgid "Cart Discount"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:877
+#: includes/woo-pdf-plugin-structure.inc.php:879
+msgid "Order Discount"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:886
+#: includes/woo-pdf-plugin-structure.inc.php:888
+msgid "Total"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:895
+msgid "Total Excluding Tax"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:897
+msgid "Total Excl. Tax"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:904
+#: includes/woo-pdf-plugin-structure.inc.php:906
+msgid "Category"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:913
+#: includes/woo-pdf-plugin-structure.inc.php:915
+msgid "Description"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:922
+#: includes/woo-pdf-plugin-structure.inc.php:924
+msgid "Notes"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:931
+#: includes/woo-pdf-plugin-structure.inc.php:933
+msgid "Amount in words"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:940
+#: includes/woo-pdf-plugin-structure.inc.php:942
+msgid "Page"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:949
+#: includes/woo-pdf-plugin-structure.inc.php:951
+msgid "(additional page)"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:958
+#: includes/woo-pdf-plugin-structure.inc.php:960
+msgid "Download Invoice"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:967
+#: includes/woo-pdf-plugin-structure.inc.php:969
+msgid "Download Proforma Invoice"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:976
+#: includes/woo-pdf-plugin-structure.inc.php:978
+msgid "invoice_"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:983
+msgid ""
+"<p>Value of this field is used as a file name prefix for regular invoices (e."
+"g. invoice_ABC_123.pdf).</p>"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:990
+msgid "Batch Download"
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:246
+#: rightpress-updates/rightpress-updates.class.php:254
+msgid "An unexpected error occurred."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:464
+msgid "Automatic Update Setup"
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:468
+#, php-format
+msgid ""
+"There is a new version of <strong>%s</strong> available. To enable automatic "
+"updates, enter your CodeCanyon Purchase Code below."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:471
+#, php-format
+msgid ""
+"<strong>%s</strong> supports automatic updates. To receive them, enter your "
+"CodeCanyon Purchase Code below."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:485
+#: rightpress-updates/rightpress-updates.class.php:762
+msgid "Purchase Code"
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:491
+msgid "Submit"
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:497
+msgid "Where do I find my Purchase Code?"
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:497
+msgid "Hide This Notice"
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:567
+msgid "Purchase Code format is invalid."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:575
+#: rightpress-updates/rightpress-updates.class.php:823
+msgid "Unable to verify Purchase Code right now. Please try again later."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:579
+#: rightpress-updates/rightpress-updates.class.php:811
+msgid "Purchase Code is not valid."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:583
+#: rightpress-updates/rightpress-updates.class.php:817
+msgid "Purchase Code belongs to another product."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:776
+msgid "View and change your Envato Purchase Code."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:803
+msgid "Purchase Code has been successfully updated."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:807
+msgid "Purchase Code has been successfully reset."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:811
+msgid "Please fix it and try again."
+msgstr ""
+
+#: rightpress-updates/rightpress-updates.class.php:817
+msgid "Please change it and try again."
+msgstr ""
+
+#: rightpress/helpers/rightpress-conditions.class.php:474
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: rightpress/helpers/rightpress-help.class.php:2750
+msgid "Standard Rate"
+msgstr ""
+
+#: rightpress/helpers/rightpress-help.class.php:3270
+#, php-format
+msgid "%1$s was called incorrectly. %2$s. Since version %3$s."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:356
+msgid "WooCommerce PDF Invoices"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:357 woocommerce-pdf-invoice.php:2075
+msgid "PDF Invoices"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:393
+msgid ""
+"Image processing library not found on your server.<br>You must have either "
+"GD or Imagick extension enabled on your server for this module to work "
+"correctly."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:504
+msgid "Batch Invoice Download"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:509
+msgid "Date from"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:515
+msgid "Date to"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:523
+msgid ""
+"Please note that only regular invoices are available for batch download."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:526
+msgid "Download Invoices"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:542
+msgid "Macros"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:543
+msgid ""
+"Footer and all custom blocks support the following macros in both title and "
+"content:"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:587
+msgid ""
+"You can insert any other order field (including custom fields) in the same "
+"way, e.g."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:741
+msgid "Open Library"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:869
+msgid "Your settings have been saved."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:875
+msgid "Reverted to a previous value."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:878
+msgid "must be numeric"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:879
+msgid "must be either 0 or 1"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:880
+msgid "is not allowed"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:881
+msgid "is not a valid email address"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:882
+msgid "is not a valid URL"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:883
+msgid "is not a valid text string"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:889
+msgid "Value of"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:1386 woocommerce-pdf-invoice.php:1387
+#: woocommerce-pdf-invoice.php:2133
+msgid "Proforma"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2000
+msgid "Support"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2116
+msgid "Download regular invoice"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2118
+msgid "Delete invoice so you can regenerate it if needed"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2118
+msgid "Delete Invoice"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2133
+msgid "Download proforma invoice"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2136 woocommerce-pdf-invoice.php:2149
+msgid "Manually generate regular invoice"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2136 woocommerce-pdf-invoice.php:2149
+msgid "Generate Invoice"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2244
+#, php-format
+msgid ""
+"<strong>WooCommerce PDF Invoice</strong> requires PHP %s or later. Please "
+"update PHP on your server to use this plugin."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2244 woocommerce-pdf-invoice.php:2255
+#: woocommerce-pdf-invoice.php:2266 woocommerce-pdf-invoice.php:2277
+#, php-format
+msgid "If you have any questions, please contact %s."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2244 woocommerce-pdf-invoice.php:2255
+#: woocommerce-pdf-invoice.php:2266 woocommerce-pdf-invoice.php:2277
+msgid "RightPress Support"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2255
+#, php-format
+msgid ""
+"<strong>WooCommerce PDF Invoice</strong> requires WordPress version %s or "
+"later. Please update WordPress to use this plugin."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2266
+#, php-format
+msgid ""
+"<strong>WooCommerce PDF Invoice</strong> requires WooCommerce to be active. "
+"You can download WooCommerce %s."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2266
+msgid "here"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2277
+#, php-format
+msgid ""
+"<strong>WooCommerce PDF Invoice</strong> requires WooCommerce version %s or "
+"later. Please update WooCommerce to use this plugin."
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2419
+msgid "Invoice number"
+msgstr ""
+
+#: woocommerce-pdf-invoice.php:2420
+msgid "Invoice date"
+msgstr ""
